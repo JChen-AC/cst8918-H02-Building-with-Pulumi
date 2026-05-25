@@ -1,0 +1,11 @@
+config:
+  typescript_pulumi_tutorial:frontendPort: "3002"
+  typescript_pulumi_tutorial:backendPort: "3000"
+  typescript_pulumi_tutorial:mongoPort: "27017"
+  typescript_pulumi_tutorial:mongoHost: mongo
+  typescript_pulumi_tutorial:database: cart
+  typescript_pulumi_tutorial:nodeEnvironment: development
+  typescript_pulumi_tutorial:protocol: http://
+  typescript_pulumi_tutorial:mongoUsername: admin
+  typescript_pulumi_tutorial:mongoPassword:
+    secure: AAABACKoTp4DJQziSSPt+zwEIJsqA4y8iv3uyTpsH8Z6MSLfGBU=
